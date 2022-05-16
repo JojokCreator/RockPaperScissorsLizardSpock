@@ -1,0 +1,21 @@
+html {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.choices {
+    display: flex;
+    justify-content: space-between;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.button {
+    padding: 20px;
+}
+p {
+   text-transform: capitalize;
+}
